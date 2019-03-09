@@ -63,6 +63,6 @@ Community add on : https://github.com/ClicShoppingV3Community
 trademark License info : https://www.clicshopping.org/forum/trademark/ 
 
 
-![image](https://github.com/ClicShoppingOfficialModulesV3/apps_shipping_boxtal/blob/master/ModuleInfosJson/image10.png)
+![image](https://github.com/ClicShoppingOfficialModulesV3/apps_shipping_boxtal/blob/master/ModuleInfosJson/image10.jpg)
 
 
