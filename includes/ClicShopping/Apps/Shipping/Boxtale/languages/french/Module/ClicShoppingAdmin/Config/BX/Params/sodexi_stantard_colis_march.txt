@@ -1,0 +1,5 @@
+cfg_boxtale_bx_sodexi_stantard_colis_march_title = Souhaitez vous afficher le Sodexi standard Colis March
+cfg_boxtale_bx_sodexi_stantard_colis_march_description = Affiche le Sodexi standard Colis March
+<br />Si vous sélectionnez sur True, veuillez mettre sur False : Afficher toutes les méthodes d'expédition
+cfg_boxtale_bx_sodexi_stantard_colis_march_true = True
+cfg_boxtale_bx_sodexi_stantard_colis_march_false = False

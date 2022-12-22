@@ -1,0 +1,2 @@
+cfg_boxtale_g_key_title = Veuillez insérer la clef API
+cfg_boxtale_g_key_desc = Clef API

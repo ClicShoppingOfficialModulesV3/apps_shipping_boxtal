@@ -1,0 +1,2 @@
+cfg_boxtale_g_first_name_title = Please insert your first name
+cfg_boxtale_g_first_name_desc = Insert your first name

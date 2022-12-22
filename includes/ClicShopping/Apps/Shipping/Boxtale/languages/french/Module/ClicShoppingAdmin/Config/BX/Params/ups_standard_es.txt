@@ -1,0 +1,5 @@
+cfg_boxtale_bx_ups_standard_es_title = Souhaitez vous afficher le UPS Standard ES
+cfg_boxtale_bx_ups_standard_es_description = Affiche le UPS Standard ES
+<br />Si vous sélectionnez sur True, veuillez mettre sur False : Afficher toutes les méthodes d'expédition
+cfg_boxtale_bx_ups_standard_es_true = True
+cfg_boxtale_bx_ups_standard_es_false = False

@@ -1,0 +1,12 @@
+module_boxtale_bx_title = Boxtal Expédition
+module_boxtale_bx_short_title = Boxtal Expédition
+
+button_install_title = Installer
+button_save = Sauver
+button_dialog_uninstall = Désinstaller
+button_uninstall =  Désinstaller
+button_cancel = Annuler
+
+module_boxtale_bx_introduction = Boxtal Expédition avec choix du transporteur
+
+cfg_boxtale_bx_zone_none = --- Aucune ---

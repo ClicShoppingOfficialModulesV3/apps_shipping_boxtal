@@ -1,0 +1,4 @@
+cfg_boxtale_bx_logo_title = Do you want to display the logo shipping ?
+cfg_boxtale_bx_logo_desc = Display the logo shipping ?
+cfg_boxtale_bx_logo_true = True
+cfg_boxtale_bx_logo_false = False

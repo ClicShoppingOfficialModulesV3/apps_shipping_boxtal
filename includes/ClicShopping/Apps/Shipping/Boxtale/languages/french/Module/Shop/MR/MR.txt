@@ -1,0 +1,8 @@
+module_boxtale_mr_text_title = Expédition via Boxtale (Relais Colis)
+module_boxtale_mr_short_title = Expédition via Boxtale (Relais Colis)
+module_boxtale_mr_public_title = Expédition via
+module_boxtale_mr_title = Expédition via Boxtale (Relais Colis)
+
+module_boxtale_mr_text_more_info = Plus d'infos
+
+text_points_relais_map = Localisation

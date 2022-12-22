@@ -1,0 +1,5 @@
+cfg_boxtale_bx_colissimo_title = Souhaitez vous afficher le  Colissimo (banque postale)
+cfg_boxtale_bx_colissimo_description = Affiche le  Colissimo (banque postale)
+<br />Si vous sélectionnez sur True, veuillez mettre sur False : Afficher toutes les méthodes d'expédition
+cfg_boxtale_bx_colissimo_true = True
+cfg_boxtale_bx_colissimo_false = False

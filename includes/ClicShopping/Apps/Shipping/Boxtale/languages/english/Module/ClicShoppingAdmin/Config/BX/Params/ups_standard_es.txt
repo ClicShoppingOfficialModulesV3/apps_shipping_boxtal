@@ -1,0 +1,5 @@
+cfg_boxtale_bx_ups_standard_es_title = Do you want to display UPS Standard ES
+cfg_boxtale_bx_ups_standard_es_description = Display UPS Standard ES
+<br />if you select on  True, please put on False : Display all shipping methods
+cfg_boxtale_bx_ups_standard_es_true = True
+cfg_boxtale_bx_ups_standard_es_false = False

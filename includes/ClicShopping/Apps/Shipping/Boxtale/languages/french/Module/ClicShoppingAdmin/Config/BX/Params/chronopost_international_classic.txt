@@ -1,0 +1,5 @@
+cfg_boxtale_bx_chronopost_international_classic_title = Souhaitez vous afficher le chronopost International classic
+cfg_boxtale_bx_chronopost_international_classic_description = Affiche le chronopost International classic
+<br />Si vous sélectionnez sur True, veuillez mettre sur False : Afficher toutes les méthodes d'expédition
+cfg_boxtale_bx_chronopost_international_classic_true = True
+cfg_boxtale_bx_chronopost_international_classic_false = False

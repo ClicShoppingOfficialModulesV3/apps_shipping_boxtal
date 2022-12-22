@@ -1,0 +1,4 @@
+cfg_boxtale_bx_zone_title = Shipping Zone
+cfg_boxtale_bx_zone_desc = Enable this module globally or limit it to customers shipping to the selected zone only.
+
+cfg_boxtale_bx_zone_none = -- None --

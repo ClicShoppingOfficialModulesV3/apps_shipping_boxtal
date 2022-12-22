@@ -1,0 +1,13 @@
+module_boxtale_mr_title = Boxtal shipping Pick up
+module_boxtale_mr_short_title = Boxtal shipping Pick up
+
+button_install_title = Install
+button_save = Save
+button_dialog_uninstall = Uninstall
+button_uninstall =  Uninstall
+button_cancel = Cancel
+
+module_boxtale_mr_introduction = Boxtal Shipping with pick up
+
+cfg_boxtale_mr_zone_none = --- None ---
+

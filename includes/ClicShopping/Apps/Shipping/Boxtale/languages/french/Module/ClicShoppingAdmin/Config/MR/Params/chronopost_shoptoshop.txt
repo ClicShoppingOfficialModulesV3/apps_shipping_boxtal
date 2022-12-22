@@ -1,0 +1,5 @@
+cfg_boxtale_mr_chronopost_shoptoshop_pickup_title = Souhaitez vous afficher le chronopost Sop to Shop
+cfg_boxtale_mr_chronopost_shoptoshop_pickup_description = Affiche le chronopost Shop to Shop
+<br />Si vous sélectionnez sur True, veuillez mettre sur False : Afficher toutes les méthodes d'expédition
+cfg_boxtale_mr_chronopost_shoptoshop_pickup_true = True
+cfg_boxtale_mr_chronopost_shoptoshop_pickup_false = False

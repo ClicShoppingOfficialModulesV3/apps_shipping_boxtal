@@ -1,0 +1,5 @@
+cfg_boxtale_bx_fedex_international_priority_cc_title = Souhaitez vous afficher le FEDEX international priority CC
+cfg_boxtale_bx_fedex_international_priority_cc_description = Affiche le FEDEX international priority CC
+<br />Si vous sélectionnez sur True, veuillez mettre sur False : Afficher toutes les méthodes d'expédition
+cfg_boxtale_bx_fedex_international_priority_cc_true = True
+cfg_boxtale_bx_fedex_international_priority_cc_false = False

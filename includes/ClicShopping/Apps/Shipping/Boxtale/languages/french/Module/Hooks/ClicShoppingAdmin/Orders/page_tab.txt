@@ -1,0 +1,57 @@
+text_boxtal = Boxtal
+tab_boxtal = Boxtal
+
+text_boxtal_manual_order_button = Traiter la commande sur Boxtal (manuelle)
+text_confirm_create_saturday_delivery = Livraison le samedi
+text_confirm_content_categorie = Catégories du produit
+text_confirm_carrier_list = Choix de l'expéditeur
+text_confirm_infos_products = Information produit <br />
+Si les tailles sont inférieures à 2cm, elles seront adaptés en fonction
+Concernant le poids, tout a été converti dans votre conversion unitaire par défaut du site. Veuillez noter que Boxtal utilise le Kg par défaut.
+text_confirm_create_height = Hauteur
+text_confirm_create_lenght = Profondeur
+text_confirm_create_width = Largeur
+text_confirm_create_weight = Poids (veuillez vérifier avec votre total de commande)
+text_confirm_short_description = Description courte de l'envoie
+text_carrier_list = Liste des expéditeurs
+text_boxtal_order_button = envoyer la commande à Boxtal
+
+text_boxtal_info_order = Information commande Boxtal
+text_boxtal_orders_status = Statut commande
+text_boxtal_info_order_ref = Référence :
+text_boxtal_info_order_state = Etat :
+text_boxtal_info_order_label_url = Label url :
+
+text_boxtal_orders_status_alert = Alerte : Veuillez consulter Boxtal pour identifier si votre commande est bien passée. Vous devrez recevoir un email concernant le problème identifié
+
+text_boxtal_operator = Opérateur
+text_boxtal_service = Service
+text_boxtal_delivery_time = Délais de livraison
+text_boxtal_specification = Spécification
+text_boxtal_family = Family
+text_boxtal_zone = Zone
+text_boxtal_drop_off = Drop Off
+text_boxtal_pick_up = Pick Up
+text_boxtal_yes = Oui
+text_boxtal_no = Non
+
+text_boxtal_orders_error_info = Informations erreurs<br />
+Avant de supprimer, veuillez vérifier votre Administration Boxtal, et éventuellement communiquer avec le support Boxtal
+text_boxtal_orders_eror_info_boxtal_ref = Boxtal Référence :
+
+text_boxtal_orders_info_statut_delivery = Expédition le samedi :
+text_boxtal_orders_info_content_categories = Numéro categories :
+text_boxtal_orders_info_carrier_list = Livreur :
+text_boxtal_orders_info_short_description = Description courte
+text_boxtal_delete_order_button = Supprimer l'odre de commande
+
+text_date_collecte = Date de collecte du produit par le transporteur :
+text_boxtal_select = --- Selectionnez ---
+text_info_delivery_pickup = Information pour l'expédition<br />
+Veuillez regarder votre total de commande (expédition) pour identifier la bonne méthode : Relais ou Direct
+text_delivery_pickup = Dépot relais
+text_delivery_home = Expédition directe (maison)
+text_hour_available_collecte = Heure de collecte pour le transporteur :
+text_relais_pickup = Code liste du relais :
+text_boxtal_tracking = Url tracking :
+text_disponibilite_hde = Heure de disponibilité pour le retrait par le transporteur :

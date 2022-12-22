@@ -1,0 +1,2 @@
+cfg_boxtale_g_email_title = Please insert your email
+cfg_boxtale_g_email_desc = Insert your email

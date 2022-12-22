@@ -1,0 +1,2 @@
+cfg_boxtale_g_company_title = Veuillez insérer votre nom de société
+cfg_boxtale_g_company_desc = Votre nom de société

@@ -1,0 +1,2 @@
+cfg_boxtale_bx_tax_class_title = Classe de taxe
+cfg_boxtale_bx_tax_class_desc = Sélectionner la classe de taxe que vous souhaitez appliquées

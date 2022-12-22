@@ -1,0 +1,2 @@
+cfg_boxtale_g_iso_state_title = Please insert your ISO state
+cfg_boxtale_g_iso_state_desc = It's a caracter at 2 number (FR for France). Not mandatory

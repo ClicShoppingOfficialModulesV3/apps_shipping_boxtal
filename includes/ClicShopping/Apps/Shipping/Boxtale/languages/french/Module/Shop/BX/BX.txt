@@ -1,0 +1,6 @@
+module_boxtale_bx_title = Expédition via Boxtale
+module_boxtale_bx_short_title = Expédition via Boxtale
+module_boxtale_bx_public_title = Expédition via
+module_boxtale_bx_title = Expédition via Boxtale
+
+module_boxtale_bx_text_more_info = Plus d'infos

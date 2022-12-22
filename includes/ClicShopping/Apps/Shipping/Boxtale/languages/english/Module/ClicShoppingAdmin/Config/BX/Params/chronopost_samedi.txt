@@ -1,0 +1,5 @@
+cfg_boxtale_bx_chronopost_samedi_title = Do you want to display chronopost Samedi
+cfg_boxtale_bx_chronopost_samedi_description = Display chronopost Samedi
+<br />if you select on  True, please put on False : Display all shipping methods
+cfg_boxtale_bx_chronopost_samedi_true = True
+cfg_boxtale_bx_chronopost_samedi_false = False

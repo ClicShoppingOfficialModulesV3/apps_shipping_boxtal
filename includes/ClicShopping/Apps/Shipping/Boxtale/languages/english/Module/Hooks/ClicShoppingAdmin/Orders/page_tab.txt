@@ -1,0 +1,57 @@
+text_boxtal = Boxtal
+tab_boxtal = Boxtal
+
+text_boxtal_manual_order_button = Make this order on Boxtal (manual)
+text_confirm_create_saturday_delivery = Delivery the saturday
+text_confirm_content_categorie = Product categories
+text_confirm_carrier_list = Delivery companies
+text_confirm_infos_products = <strong>Product information</strong><br />
+If your size is less than 2 cm, the size will be adapted<br />
+About the weight, all is converted in you default unit used by the website. Boxtal use the kg by default
+text_confirm_create_height = Height
+text_confirm_create_lenght = Lenght
+text_confirm_create_width = Width
+text_confirm_create_weight = Weight (please, check with your total order)
+text_confirm_short_description = Shipping short description
+text_carrier_list = Carriers list
+text_boxtal_create_order_button = Send the order to Boxtal
+
+text_boxtal_info_order = Boxtal order information
+text_boxtal_orders_status = Order status
+text_boxtal_info_order_ref = Model :
+text_boxtal_info_order_state = State :
+text_boxtal_info_order_label_url = Url label :
+
+text_boxtal_orders_status_alert = Alert : please check on Boxtal if the order has been created. You must receive an email about the problem identified
+
+text_boxtal_operator = Operator
+text_boxtal_service = Service
+text_boxtal_delivery_time = Delivery time
+text_boxtal_specification = Specification
+text_boxtal_family = Family
+text_boxtal_zone = Zone
+text_boxtal_drop_off = Drop Off
+text_boxtal_pick_up = Pick Up
+text_boxtal_yes = Yes
+text_boxtal_no = No
+text_boxtal_orders_error_info = Errors informations<br />
+Before to delete, please, check your Boxtal Administration, and eventually contact the Boxtal support
+
+text_boxtal_orders_eror_info_boxtal_ref =  Boxtal model :
+text_boxtal_orders_info_statut_delivery = Saturday delivery :
+text_boxtal_orders_info_content_categories = Content categories number:
+text_boxtal_orders_info_carrier_list = Carrier :
+text_boxtal_orders_info_short_description =  Short description :
+text_boxtal_delete_order_button = Delete this order
+
+text_date_collecte = Product collect date for withdrawal by the carrier :
+text_boxtal_select = --- Select ---
+text_info_delivery_pickup = <strong>Delivery Information</strong>
+Look your total order to select the good delivery : Pick up or Home.
+text_delivery_pickup = Pick up
+text_delivery_home = Delivery Home
+text_hour_available_collecte = Product collect for withdrawal by the carrier :
+text_relais_pickup = Pick up list code :
+text_boxtal_tracking = Url tracking :
+text_disponibilite_hde = Availability time for withdrawal by the carrier :
+

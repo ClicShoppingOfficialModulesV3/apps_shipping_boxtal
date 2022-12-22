@@ -1,0 +1,2 @@
+cfg_boxtale_g_postcode_title = Veuillez insérer votre code postale
+cfg_boxtale_g_postcode_desc = Votre code postal

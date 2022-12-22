@@ -1,0 +1,2 @@
+cfg_boxtale_g_iso_country_title = Veuillez insérer votre ISO de Pays
+cfg_boxtale_g_iso_country_desc = C'est un caractère à 2 chiffres (FR pour France)

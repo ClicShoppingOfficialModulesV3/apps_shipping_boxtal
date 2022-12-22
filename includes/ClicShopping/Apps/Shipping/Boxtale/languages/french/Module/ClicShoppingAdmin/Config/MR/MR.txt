@@ -1,0 +1,13 @@
+module_boxtale_mr_title = Boxtal shipping Points Relais
+module_boxtale_mr_short_title = Boxtal shipping Points Relais
+
+button_install_title = Install
+button_save = Save
+button_dialog_uninstall = Uninstall
+button_uninstall =  Uninstall
+button_cancel = Cancel
+
+module_boxtale_mr_introduction = Boxtal Expédition avec Relais Colis
+
+cfg_boxtale_mr_zone_none = --- Aucune ---
+

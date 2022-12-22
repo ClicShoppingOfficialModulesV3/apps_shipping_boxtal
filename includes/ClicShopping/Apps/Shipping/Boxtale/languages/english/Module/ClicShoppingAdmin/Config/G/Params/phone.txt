@@ -1,0 +1,2 @@
+cfg_boxtale_g_phone_title = Please insert your phone number
+cfg_boxtale_g_phone_desc = Insert your phone number

@@ -1,0 +1,2 @@
+cfg_boxtale_bx_postcode_title = Please insert your post code
+cfg_boxtale_bx_postcode_desc = Insert your post code

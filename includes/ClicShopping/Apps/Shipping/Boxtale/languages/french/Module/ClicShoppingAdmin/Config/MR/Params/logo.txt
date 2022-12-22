@@ -1,0 +1,4 @@
+cfg_boxtale_mr_logo_title = Souhaitez-vous afficher les logos d'expédition ?
+cfg_boxtale_mr_logo_desc = afficher les logos d'expédition ?
+cfg_boxtale_mr_logo_true = True
+cfg_boxtale_mr_logo_false = False

@@ -1,0 +1,2 @@
+cfg_boxtale_g_user_title = Please insert your user name
+cfg_boxtale_g_user_desc = user name

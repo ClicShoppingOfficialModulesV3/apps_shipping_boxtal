@@ -1,0 +1,5 @@
+cfg_boxtale_mr_info_title = Souhaitez-vous afficher une info date d'arrivée
+cfg_boxtale_mr_info_description = Affiche une info date d'arrivée
+
+cfg_boxtale_mr_info_true = True
+cfg_boxtale_mr_info_false = False

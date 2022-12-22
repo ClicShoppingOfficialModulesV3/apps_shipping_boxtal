@@ -1,0 +1,2 @@
+cfg_boxtale_g_key_title = Please insert the API key
+cfg_boxtale_g_key_desc = API Key

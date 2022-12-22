@@ -1,0 +1,5 @@
+cfg_boxtale_bx_colissimo_expert_title = Do you want to display colissimo Expert
+cfg_boxtale_bx_colissimo_expert_description = Display colissimo Expert
+<br />if you select on  True, please put on False : Display all shipping methods
+cfg_boxtale_bx_colissimo_expert_true = True
+cfg_boxtale_bx_colissimo_expert_false = False

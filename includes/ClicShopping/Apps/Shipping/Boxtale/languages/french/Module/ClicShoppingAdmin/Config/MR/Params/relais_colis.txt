@@ -1,0 +1,5 @@
+cfg_boxtale_mr_relais_colis_title = Souhaitez-vous afficher Relais colis comme méthodes d'expédition
+cfg_boxtale_mr_relais_colis_description = Affiche Relais colis comme méthodes d'expédition
+<br />Si vous sélectionnez sur True, veuillez mettre sur False : Afficher toutes les méthodes d'expédition
+cfg_boxtale_mr_relais_colis_true = True
+cfg_boxtale_mr_relais_colis_false = False

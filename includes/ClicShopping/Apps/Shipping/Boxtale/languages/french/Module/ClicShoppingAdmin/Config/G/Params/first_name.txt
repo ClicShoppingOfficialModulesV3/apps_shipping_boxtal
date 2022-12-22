@@ -1,0 +1,2 @@
+cfg_boxtale_g_first_name_title = Veuillez insérer votre prénom
+cfg_boxtale_g_first_name_desc = Votre prénom

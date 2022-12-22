@@ -1,0 +1,5 @@
+cfg_boxtale_bx_tnt_express_economy_express_international_title = Souhaitez vous afficher le TNT Economy Express international
+cfg_boxtale_bx_tnt_express_economy_express_international_description = Affiche le TNT Economy Express international
+<br />Si vous sélectionnez sur True, veuillez mettre sur False : Afficher toutes les méthodes d'expédition
+cfg_boxtale_bx_tnt_express_economy_express_international_true = True
+cfg_boxtale_bx_tnt_express_economy_express_international_false = False

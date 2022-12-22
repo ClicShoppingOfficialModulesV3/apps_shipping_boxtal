@@ -1,0 +1,5 @@
+cfg_boxtale_mr_chronopost_shoptoshop_title = Do you want to display chronopost Shop to Shop
+cfg_boxtale_mr_chronopost_shoptoshop_description = Display chronopost Shop to Shop
+<br />if you select on  True, please put on False : Display all shipping methods
+cfg_boxtale_mr_chronopost_shoptoshop_true = True
+cfg_boxtale_mr_chronopost_shoptoshop_false = False

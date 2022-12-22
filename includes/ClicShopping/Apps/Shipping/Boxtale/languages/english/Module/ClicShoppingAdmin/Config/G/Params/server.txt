@@ -1,0 +1,4 @@
+cfg_boxtale_g_server_title = Please select your server
+cfg_boxtale_g_server_description = For the production, select prod
+cfg_boxtale_g_server_test = test
+cfg_boxtale_g_server_prod = prod

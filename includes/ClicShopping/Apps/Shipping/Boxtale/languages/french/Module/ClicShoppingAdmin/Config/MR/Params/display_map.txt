@@ -1,0 +1,5 @@
+cfg_boxtale_mr_display_map_title = Souhaitez-vous afficher une carte de localisation du relais
+cfg_boxtale_mr_display_map_description = Affiche une carte de localisation du relais
+
+cfg_boxtale_mr_display_map_true = True
+cfg_boxtale_mr_display_map_false = False

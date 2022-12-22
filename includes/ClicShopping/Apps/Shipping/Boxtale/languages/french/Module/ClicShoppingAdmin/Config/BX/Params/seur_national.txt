@@ -1,0 +1,5 @@
+cfg_boxtale_bx_seur_national_title = Souhaitez vous afficher le SEUR national (es)
+cfg_boxtale_bx_seur_national_description = Affiche le SEUR national
+<br />Si vous sélectionnez sur True, veuillez mettre sur False : Afficher toutes les méthodes d'expédition
+cfg_boxtale_bx_seur_national_true = True
+cfg_boxtale_bx_seur_national_false = False

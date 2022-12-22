@@ -1,0 +1,8 @@
+module_boxtale_text_title = Shipping by Boxtale (Pick up)
+module_boxtale_short_title = Shipping by to Boxtale (Pick up)
+module_boxtale_public_title = Shipping by
+module_boxtale_title = Shipping by Boxtale (Pick up)
+
+module_boxtale_text_more_info = More Info
+
+text_points_relais_map = Localization

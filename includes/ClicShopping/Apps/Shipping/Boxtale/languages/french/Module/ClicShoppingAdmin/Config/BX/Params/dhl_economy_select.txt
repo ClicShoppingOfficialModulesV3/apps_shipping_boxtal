@@ -1,0 +1,5 @@
+cfg_boxtale_bx_dhl_economy_select_title = Souhaitez vous afficher le DHL economy select
+cfg_boxtale_bx_dhl_economy_select_description = Affiche le DHL economy select
+<br />Si vous sélectionnez sur True, veuillez mettre sur False : Afficher toutes les méthodes d'expédition
+cfg_boxtale_bx_dhl_economy_select_true = True
+cfg_boxtale_bx_dhl_economy_select_false = False

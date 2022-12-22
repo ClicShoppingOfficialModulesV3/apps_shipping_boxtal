@@ -1,0 +1,5 @@
+cfg_boxtale_mr_display_map_title = Do you want to display a map with pick up localization
+cfg_boxtale_mr_display_map_description = Display a map with pick up localization
+
+cfg_boxtale_mr_display_map_true = True
+cfg_boxtale_mr_display_map_false = False

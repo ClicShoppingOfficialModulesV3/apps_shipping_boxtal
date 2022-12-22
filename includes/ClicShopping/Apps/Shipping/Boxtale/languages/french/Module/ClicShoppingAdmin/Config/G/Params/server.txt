@@ -1,0 +1,4 @@
+cfg_boxtale_g_server_title = Veuillez sélectionner votre environnement server
+cfg_boxtale_g_server_description = Pour la mise en production, sélectionner prod
+cfg_boxtale_g_server_test = test
+cfg_boxtale_g_server_prod = prod

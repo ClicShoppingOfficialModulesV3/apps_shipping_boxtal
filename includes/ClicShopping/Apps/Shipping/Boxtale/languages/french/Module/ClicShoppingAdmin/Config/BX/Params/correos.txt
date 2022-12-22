@@ -1,0 +1,5 @@
+cfg_boxtale_bx_correos_title = Souhaitez vous afficher le Correos (es)
+cfg_boxtale_bx_correos_description = Affiche le correos
+<br />Si vous sélectionnez sur True, veuillez mettre sur False : Afficher toutes les méthodes d'expédition
+cfg_boxtale_bx_correos_true = True
+cfg_boxtale_bx_correos_false = False

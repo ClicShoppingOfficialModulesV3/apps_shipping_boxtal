@@ -1,0 +1,5 @@
+{
+    "require": {
+        "boxtale/php-library": "^1.3"
+    }
+}

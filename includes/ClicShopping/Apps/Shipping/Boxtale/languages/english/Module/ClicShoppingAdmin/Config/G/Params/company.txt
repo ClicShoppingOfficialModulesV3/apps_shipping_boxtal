@@ -1,0 +1,2 @@
+cfg_boxtale_g_last_name_title = Please insert your company name
+cfg_boxtale_g_last_name_desc = Insert your last company name

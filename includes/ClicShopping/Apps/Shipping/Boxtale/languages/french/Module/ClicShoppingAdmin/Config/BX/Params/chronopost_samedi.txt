@@ -1,0 +1,5 @@
+cfg_boxtale_bx_chronopost_samedi_title = Souhaitez vous afficher le chronopost Samedi
+cfg_boxtale_bx_chronopost_samedi_description = Affiche le chronopost Samedi
+<br />Si vous sélectionnez sur True, veuillez mettre sur False : Afficher toutes les méthodes d'expédition
+cfg_boxtale_bx_chronopost_samedi_true = True
+cfg_boxtale_bx_chronopost_samedi_false = False

@@ -1,0 +1,5 @@
+cfg_boxtale_mr_punto_point_relais_title = Do you want to display Punto Point Relais (es)
+cfg_boxtale_mr_punto_point_relais_description = Display Punto Point Relais
+<br />if you select on  True, please put on False : Display all shipping methods
+cfg_boxtale_mr_punto_point_relais_true = True
+cfg_boxtale_mr_punto_point_relais_false = False

@@ -1,0 +1,2 @@
+cfg_boxtale_g_iso_state_title = Veuillez insérer votre ISO de Département / Etat
+cfg_boxtale_g_iso_state_desc = C'est un caractère à 2 chiffres (FR pour France). Non obligatoire

@@ -1,0 +1,5 @@
+cfg_boxtale_mr_chronopost_europe_title = Souhaitez vous afficher le chronopost Europe
+cfg_boxtale_mr_chronopost_europe_description = Affiche le chronopost Europe
+<br />Si vous sélectionnez sur True, veuillez mettre sur False : Afficher toutes les méthodes d'expédition
+cfg_boxtale_mr_chronopost_europe_true = True
+cfg_boxtale_mr_chronopost_europe_false = False

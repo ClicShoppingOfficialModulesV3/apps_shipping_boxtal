@@ -1,0 +1,2 @@
+cfg_boxtale_g_address_title = Please insert your address
+cfg_boxtale_g_address_desc = Insert your address

@@ -1,0 +1,5 @@
+cfg_boxtale_mr_pour_toi_title = Do you want to display CpourToi
+cfg_boxtale_mr_pour_toi_description = Display CpourToi
+<br />if you select on True, please put on False : Display all shipping methods
+cfg_boxtale_mr_pour_toi_true = True
+cfg_boxtale_mr_pour_toi_false = False

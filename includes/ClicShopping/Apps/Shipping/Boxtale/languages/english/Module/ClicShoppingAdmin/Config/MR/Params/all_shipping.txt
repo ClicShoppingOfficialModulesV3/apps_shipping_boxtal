@@ -1,0 +1,5 @@
+cfg_boxtale_mr_all_shipping_title = Do you want to display all shipping methods
+cfg_boxtale_mr_all_shipping_description = Display all shipping methods
+<br> If you select False, choose on method shipping below
+cfg_boxtale_mr_all_shipping_true = True
+cfg_boxtale_mr_all_shipping_false = False

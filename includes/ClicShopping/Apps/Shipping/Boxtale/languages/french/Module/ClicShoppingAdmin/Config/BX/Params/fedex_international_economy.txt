@@ -1,0 +1,5 @@
+cfg_boxtale_bx_fedex_international_economy_title = Souhaitez vous afficher le FEDEX international economy
+cfg_boxtale_bx_fedex_international_economy_description = Affiche le FEDEX international economy
+<br />Si vous sélectionnez sur True, veuillez mettre sur False : Afficher toutes les méthodes d'expédition
+cfg_boxtale_bx_fedex_international_economy_true = True
+cfg_boxtale_bx_fedex_international_economy_false = False

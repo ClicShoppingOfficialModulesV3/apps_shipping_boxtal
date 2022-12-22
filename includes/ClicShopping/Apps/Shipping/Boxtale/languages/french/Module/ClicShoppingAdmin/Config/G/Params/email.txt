@@ -1,0 +1,2 @@
+cfg_boxtale_g_email_title = Veuillez insérer votre couriel
+cfg_boxtale_g_email_desc = Votre couriel

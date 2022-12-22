@@ -1,0 +1,5 @@
+cfg_boxtale_mr_punto_domicilio_title = Do you want to display Punto domicilio (es)
+cfg_boxtale_mr_punto_domicilio_description = Display Punto domicilio
+<br />if you select on  True, please put on False : Display all shipping methods
+cfg_boxtale_mr_punto_domicilio_true = True
+cfg_boxtale_mr_punto_domicilio_false = False

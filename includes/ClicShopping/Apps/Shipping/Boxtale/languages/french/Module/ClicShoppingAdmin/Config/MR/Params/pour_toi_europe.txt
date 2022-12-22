@@ -1,0 +1,5 @@
+cfg_boxtale_mr_pour_toi_europe_title = Souhaitez-vous afficher le CpourToi Europe
+cfg_boxtale_mr_pour_toi_europe_description =  Afficher le CpourToi Europe
+<br />Si vous sélectionnez sur True, veuillez mettre sur False : Afficher toutes les méthodes d'expédition
+cfg_boxtale_mr_pour_toi_europe_true = True
+cfg_boxtale_mr_pour_toi_europe_false = False

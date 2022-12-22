@@ -1,0 +1,5 @@
+cfg_boxtale_mr_happy_post_europe_title = Do you want to display Happy Post Europe
+cfg_boxtale_mr_happy_post_europe_description = Display Happy Post Europe
+<br />if you select on  True, please put on False : Display all shipping methods
+cfg_boxtale_mr_happy_post_europe_true = True
+cfg_boxtale_mr_happy_post_europe_false = False

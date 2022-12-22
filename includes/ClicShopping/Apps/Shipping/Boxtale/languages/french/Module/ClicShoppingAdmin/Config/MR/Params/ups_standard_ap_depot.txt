@@ -1,0 +1,5 @@
+cfg_boxtale_mr_ups_standard_ap_depot_title = Souhaitez vous afficher le UPS Standard Access Point Dépot
+cfg_boxtale_mr_ups_standard_ap_depot_description = Affiche le UPS Standard Access Point Dépot
+<br />Si vous sélectionnez sur True, veuillez mettre sur False : Afficher toutes les méthodes d'expédition
+cfg_boxtale_mr_ups_standard_ap_depot_true = True
+cfg_boxtale_mr_ups_standard_ap_depot_false = False

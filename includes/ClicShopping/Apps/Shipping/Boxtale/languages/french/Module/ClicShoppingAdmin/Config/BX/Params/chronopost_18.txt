@@ -1,0 +1,5 @@
+cfg_boxtale_bx_chronopost_18_title = Souhaitez vous afficher le chronopost 18
+cfg_boxtale_bx_chronopost_18_description = Affiche le chronopost 18
+<br />Si vous sélectionnez sur True, veuillez mettre sur False : Afficher toutes les méthodes d'expédition
+cfg_boxtale_bx_chronopost_18_true = True
+cfg_boxtale_bx_chronopost_18_false = False

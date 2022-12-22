@@ -1,0 +1,2 @@
+cfg_boxtale_mr_limit_display_title = Nombre de points relais limite à afficher par expéditeur
+cfg_boxtale_mr_limit_display_description = Limiter le nombre d'affichage d'adresse points relais par expéditeur

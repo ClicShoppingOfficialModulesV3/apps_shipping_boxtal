@@ -1,0 +1,5 @@
+cfg_boxtale_bx_punto_pack_title = Do you want to display Punto pack (es)
+cfg_boxtale_bx_punto_pack_description = Display Punto pack
+<br />if you select on  True, please put on False : Display all shipping methods
+cfg_boxtale_bx_punto_pack_true = True
+cfg_boxtale_bx_punto_pack_false = False

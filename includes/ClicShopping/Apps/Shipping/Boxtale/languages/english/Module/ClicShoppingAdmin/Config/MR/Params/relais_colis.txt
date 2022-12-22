@@ -1,0 +1,5 @@
+cfg_boxtale_mr_relais_colis_title = Do you want to display Relais colis
+cfg_boxtale_mr_relais_colis_description = Display Relais colis
+<br />if you select on  True, please put on False : Display all shipping methods
+cfg_boxtale_mr_relais_colis_true = True
+cfg_boxtale_mr_relais_colis_false = False

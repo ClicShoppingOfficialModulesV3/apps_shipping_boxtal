@@ -1,0 +1,2 @@
+cfg_boxtale_g_city_title = Please insert your city
+cfg_boxtale_g_city_desc = Insert your city

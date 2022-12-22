@@ -1,0 +1,5 @@
+cfg_boxtale_bx_dhl_express_title = Souhaitez vous afficher le DHL express
+cfg_boxtale_bx_dhl_express_description = Affiche le DHL Express
+<br />Si vous sélectionnez sur True, veuillez mettre sur False : Afficher toutes les méthodes d'expédition
+cfg_boxtale_bx_dhl_express_true = True
+cfg_boxtale_bx_dhl_express_false = False

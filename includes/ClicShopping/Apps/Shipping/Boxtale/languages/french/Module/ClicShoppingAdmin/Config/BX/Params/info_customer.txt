@@ -1,0 +1,4 @@
+cfg_boxtale_bx_info_customer_title = Souhaitez-vous afficher un bouton info
+cfg_boxtale_bx_info_customer_description = Affiche un bouton info
+cfg_boxtale_bx_info_customer_true = True
+cfg_boxtale_bx_info_customer_false = False

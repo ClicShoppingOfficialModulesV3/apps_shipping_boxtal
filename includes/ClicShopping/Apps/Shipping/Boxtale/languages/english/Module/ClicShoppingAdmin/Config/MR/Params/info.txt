@@ -1,0 +1,5 @@
+cfg_boxtale_mr_info_title = Do you want to display a info about the receive date
+cfg_boxtale_mr_info_description = Display a info about the receive date
+
+cfg_boxtale_mr_info_true = True
+cfg_boxtale_mr_info_false = False

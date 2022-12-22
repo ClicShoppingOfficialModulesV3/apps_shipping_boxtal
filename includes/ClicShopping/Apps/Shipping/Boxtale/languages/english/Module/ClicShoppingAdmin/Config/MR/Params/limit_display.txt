@@ -1,0 +1,2 @@
+cfg_boxtale_mr_limit_display_title = Pick up number to display by shipper
+cfg_boxtale_mr_limit_display_description = Pick up number to display by shipper

@@ -1,0 +1,5 @@
+cfg_boxtale_mr_pour_toi_europe_title = Do you want to display CpourToi Europe
+cfg_boxtale_mr_pour_toi_europe_description = Display CpourToi Europe
+<br />if you select on True, please put on False : Display all shipping methods
+cfg_boxtale_mr_pour_toi_europe_true = True
+cfg_boxtale_mr_pour_toi_europe_false = False

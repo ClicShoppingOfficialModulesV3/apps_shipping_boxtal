@@ -1,0 +1,12 @@
+module_g_title = General
+module_g_short_title = General
+
+module_boxtale_bx_short_title = Shipping Choice
+module_boxtale_mr_title = Multi pickup
+
+button_install_title = Install
+button_save = Save
+button_dialog_uninstall = Uninstall
+button_uninstall =  Uninstall
+button_cancel = Cancel
+

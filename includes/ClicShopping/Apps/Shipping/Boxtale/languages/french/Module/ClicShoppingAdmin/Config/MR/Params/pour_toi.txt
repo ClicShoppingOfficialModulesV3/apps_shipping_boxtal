@@ -1,0 +1,5 @@
+cfg_boxtale_mr_pour_toi_title = Souhaitez-vous afficher le CpourToi
+cfg_boxtale_mr_pour_toi_description =  Afficher le CpourToi
+<br />Si vous sélectionnez sur True, veuillez mettre sur False : Afficher toutes les méthodes d'expédition
+cfg_boxtale_mr_pour_toi_true = True
+cfg_boxtale_mr_pour_toi_false = False

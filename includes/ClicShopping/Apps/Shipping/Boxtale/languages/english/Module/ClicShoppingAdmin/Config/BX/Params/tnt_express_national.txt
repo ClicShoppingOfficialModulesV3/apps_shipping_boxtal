@@ -1,0 +1,5 @@
+cfg_boxtale_bx_tnt_express_national_title = Do you want to display TNT express National
+cfg_boxtale_bx_tnt_express_national_description = Display TNT express national
+<br />if you select on  True, please put on False : Display all shipping methods
+cfg_boxtale_bx_tnt_express_national_true = True
+cfg_boxtale_bx_tnt_express_national_false = False

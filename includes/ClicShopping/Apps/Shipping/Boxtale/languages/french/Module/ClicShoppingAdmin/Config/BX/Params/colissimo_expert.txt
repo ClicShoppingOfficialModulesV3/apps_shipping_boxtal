@@ -1,0 +1,5 @@
+cfg_boxtale_bx_colissimo_expert_title = Souhaitez vous afficher le  colissimo Expert (banque postale)
+cfg_boxtale_bx_colissimo_expert_description = Affiche le colissimo Expert (banque postale)
+<br />Si vous sélectionnez sur True, veuillez mettre sur False : Afficher toutes les méthodes d'expédition
+cfg_boxtale_bx_colissimo_expert_true = True
+cfg_boxtale_bx_colissimo_expert_false = False
